@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 14.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 43363)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="667px"
+	 height="660px" viewBox="0 0 667 660" enable-background="new 0 0 667 660" xml:space="preserve">
+<g id="Background">
+	<g>
+		<polyline fill="none" stroke="#000000" points="0,0 667,0 667,660 0,660 0,0 		"/>
+		<line display="none" fill="none" stroke="#000000" x1="0" y1="0" x2="667" y2="660"/>
+		<line display="none" fill="none" stroke="#000000" x1="667" y1="0" x2="0" y2="660"/>
+	</g>
+	
+		<rect x="30" y="29" fill-rule="evenodd" clip-rule="evenodd" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" width="609" height="602"/>
+	<g display="none">
+		
+			<polyline display="inline" fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" points="
+			99,101 567,101 567,567 99,567 99,101 		"/>
+		
+			<line display="inline" fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" x1="99" y1="101" x2="567" y2="567"/>
+		
+			<line display="inline" fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" x1="567" y1="101" x2="99" y2="567"/>
+	</g>
+	<path fill-rule="evenodd" clip-rule="evenodd" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M130,416
+		c0,0-41.75-26.75-3-59s176-126,176-126s43.31-17.11,77,8c35.33,26.33,165,119,165,119s32.33,27.83-2,57S375,537,375,537
+		s-36,24.5-80,0S130,416,130,416z"/>
+	<path fill-rule="evenodd" clip-rule="evenodd" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M129,360
+		c0,0-41.75-26.75-3-59s176-126,176-126s43.31-17.11,77,8c35.33,26.33,165,119,165,119s32.33,27.83-2,57S374,481,374,481
+		s-36,24.5-80,0S129,360,129,360z"/>
+	<path fill-rule="evenodd" clip-rule="evenodd" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M128,298
+		c0,0-41.75-26.75-3-59s176-126,176-126s43.31-17.11,77,8c35.33,26.33,165,119,165,119s32.33,27.83-2,57S373,419,373,419
+		s-36,24.5-80,0S128,298,128,298z"/>
+	
+		<path fill-rule="evenodd" clip-rule="evenodd" fill="#FCFAFB" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="
+		M357,341l-129-94l60-43c0,0,30.9-14.38,55,0c30.38,18.12,12,40,12,40s26.69-18.91,56-1c36.63,22.37,9.63,51,9.63,51L357,341z"/>
+	<path fill-rule="evenodd" clip-rule="evenodd" stroke="#FCFAFB" stroke-linecap="round" stroke-linejoin="round" d="M259,245l41,30
+		l31.83-23.67c0,0,21.82-14.32,0.17-31.33c-21-16.5-50.17,9.5-50.17,9.5L259,245z"/>
+	<path fill-rule="evenodd" clip-rule="evenodd" stroke="#FCFAFB" stroke-linecap="round" stroke-linejoin="round" d="M359,318
+		c0,0-45.33-31.5-45-32s38-27,38-27s25-15.75,45-1c17.09,12.61,7,24.75,1,31C386.73,300.74,359,318,359,318z"/>
+</g>
+<g id="Layer_1">
+</g>
+</svg>

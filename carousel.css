@@ -1,0 +1,231 @@
+/************************************************
+Many cool features including:
+
+    Image slider for each referenced project
+    Styled google font
+    6 colour variants
+    Html5, CSS3
+    Fully responsive
+    Well structured code
+    SEO friendly
+    ****************************/
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    color: hsl(0, 0%, 0%);
+}
+
+
+@import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda&display=swap');
+
+/*display-4 font-size*/
+h1 {
+    font-family: 'Bodoni Moda', serif;
+    color: hsl(0, 0%, 0%);
+    line-height: 1.2
+}
+
+h2 {
+    font-family: 'Bodoni Moda', serif;
+    color: hsl(0, 0%, 0%);
+    line-height: 1.9;
+}
+
+
+
+p {
+    font-size: 15px;
+    color: hsl(0, 0%, 0%);
+    font-family: 'Montserrat', sans-serif;
+}
+/* Scroll behavior smooth!
+-------------------------------------------------- */
+
+#thefleet {
+    height: 100px;
+
+}
+
+#adventures {
+    height: 110px;
+
+}
+/* End Scroll behavior smooth!
+-------------------------------------------------- */
+
+/* CUSTOMIZE THE CAROUSEL
+-------------------------------------------------- */
+.carousel {
+    background: #2f4357;
+    margin-top: 20px;
+}
+
+.carousel-item {
+    text-align: center;
+    min-height: 280px;
+    /* Prevent carousel from being distorted if for some reason image doesn't load */
+}
+
+/* Carousel base class */
+.carousel {
+    margin-bottom: 4rem;
+}
+
+/* Since positioning the image, we need to help out the caption */
+.carousel-caption {
+    bottom: 3rem;
+    z-index: 10;
+}
+
+/*LOGO*/
+.brand {
+    color: #5a5a5a;
+}
+
+/*navbar*/
+.navbar {
+    background-color: #f2efe9;
+}
+
+
+
+.nav-link {
+    color: #5a5a5a;
+}
+
+.navbar-collapse {
+    color: red;
+}
+
+/*Botton border
+-------------------------------------------------- */
+.btn {
+    margin-top: 10px;
+
+}
+
+strong {
+    font-weight: 600;
+
+}
+
+/*            Responsive Slider Bootstrap 5 img
+-------------------------------------------------- */
+.carousel-item {
+    min-height: 80vh;
+    background-position: center;
+    background-size: cover;
+
+}
+
+
+0
+
+/* Declare heights because of positioning of img element */
+.carousel-item {
+    height: 42rem;
+
+
+}
+
+.carousel-item>img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-width: 100%;
+    height: 65rem;
+
+}
+
+.vv img {
+    transition: all 0.3s ease;
+    cursor: pointer;
+}
+
+
+/* Three columns of text below the carousel --*/
+.test {
+    background-color: #f2efe9;
+}
+
+
+/* MARKETING CONTENT 
+-------------------------------------------------- */
+
+/* Center align the text within the three columns below the carousel */
+.marketing .col-lg-4 {
+    margin-bottom: 1.5rem;
+    text-align: center;
+}
+
+.marketing h2 {
+    font-weight: 400;
+}
+
+.marketing .col-lg-4 p {
+    margin-right: .75rem;
+    margin-left: .75rem;
+}
+
+
+/* Featurettes
+------------------------- */
+
+.featurette-divider {
+    margin: 5rem 0;
+    /* Space out the Bootstrap <hr> more */
+}
+
+/* Thin out the marketing headings */
+.featurette-heading {
+    font-weight: 300;
+    line-height: 1;
+    letter-spacing: normal;
+    word-spacing: 5px;
+}
+
+.featurette-image {
+    margin-bottom: 20px;
+}
+
+/* RESPONSIVE CSS
+-------------------------------------------------- */
+/* If the screen size is 1200px wide or more, set the font-size to 80px */
+
+
+@media screen and (max-width: 414px) {
+    .carousel-caption {
+        font-size: 30px;
+
+    }
+
+    .display-4 {
+        font-size: 50px;
+        line-height: 1.2
+    }
+}
+
+@media (min-width: 40em) {
+
+    /* Bump up size of carousel content */
+    .carousel-caption p {
+        margin-bottom: 1.25rem;
+        font-size: 1.25rem;
+        line-height: 1.4;
+    }
+
+    .featurette-heading {
+        font-size: 50px;
+    }
+}
+
+@media (min-width: 62em) {
+    .featurette-heading {
+        margin-top: 5rem;
+
+    }
+}
